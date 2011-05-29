@@ -1,0 +1,19 @@
+22 май 2011 23:24:10,860 INFO  ~ Starting D:\programs\eclipse\playapps\yabe
+22 май 2011 23:24:12,152 WARN  ~ You're running Play! in DEV mode
+22 май 2011 23:24:12,372 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+22 май 2011 23:24:25,683 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+22 май 2011 23:24:27,059 WARN  ~ Messages file missing for locale ru
+22 май 2011 23:24:27,060 WARN  ~ Messages file missing for locale en
+22 май 2011 23:24:27,062 INFO  ~ Application 'y' is now started !
+22 май 2011 23:28:52,820 WARN  ~ Messages file missing for locale ru
+22 май 2011 23:28:52,821 WARN  ~ Messages file missing for locale en
+22 май 2011 23:32:53,261 WARN  ~ Messages file missing for locale ru
+22 май 2011 23:32:53,262 WARN  ~ Messages file missing for locale en
+22 май 2011 23:40:09,691 WARN  ~ Messages file missing for locale ru
+22 май 2011 23:40:09,692 WARN  ~ Messages file missing for locale en
+22 май 2011 23:51:06,340 WARN  ~ Messages file missing for locale ru
+22 май 2011 23:51:06,341 WARN  ~ Messages file missing for locale en
+23 май 2011 00:08:51,660 WARN  ~ Messages file missing for locale ru
+23 май 2011 00:08:51,661 WARN  ~ Messages file missing for locale en
+23 май 2011 00:11:14,573 WARN  ~ Messages file missing for locale ru
+23 май 2011 00:11:14,574 WARN  ~ Messages file missing for locale en
